@@ -14,9 +14,9 @@ else which considers the nearby human a low-hanging fruit?
 
 Do not use antimony in evocations -- it is bad for the environment.
 
-╔══════════════╗
-║ 🜬 Pararaum 🜬 ║
-╚══════════════╝
+	╔══════════════╗
+	║ 🜬 Pararaum 🜬 ║
+	╚══════════════╝
 
 ## Links
 
